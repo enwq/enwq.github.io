@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
     
    - title: "CV"
-     url: https://github.com/enwq/enwq.github.io/blob/master/files/Yufei_Shen_CV.pdf
+     url: http://enwq.github.io/files/Yufei_Shen_CV.pdf
     
    - title: "Guide"
      url: /markdown/
