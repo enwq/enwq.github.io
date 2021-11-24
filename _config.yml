@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : shenyufei2000@hotmail.com | ys57@rice.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -117,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : sssssssssssss
 
 
 # Reading Files
