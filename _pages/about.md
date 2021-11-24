@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yufei Shen @ Rice University"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
