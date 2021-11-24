@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yufei Shen"
 title_separator          : "-"
-name                     : &name "Yufei Shen @ Rice University"
+name                     : &name "Yufei Shen"
 description              : &description "Rice University Class of 20222"
 url                      : https://enwq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
