@@ -17,6 +17,7 @@ Research Experience
 
 Schizophrenia Patients’ Symptom Prediction with Mobile Phone Sensing
 ------
+- Developed user-dependent and user-independent Gaussian Process and Long Short-Term Memory models to predict symptoms of schizophrenia patients using feature data collected from mobile phone sensing
 
 Sleep Advice Prediction with Multimodal Data
 ------
