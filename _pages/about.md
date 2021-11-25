@@ -22,5 +22,5 @@ Sleep Advice Prediction with Multimodal Data
 ------
 
 Alzheimer Disease Diagnoses with Self-supervised Learning and MRI
----
+------
 
