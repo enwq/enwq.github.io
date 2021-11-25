@@ -8,3 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
+I'm a undergraduate senior at Rice University pursuing B.S. Electrical Engineering and B.A. Statistics degrees. 
+
+Projects
+====
