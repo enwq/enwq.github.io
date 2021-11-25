@@ -14,6 +14,7 @@ I'm an undergraduate senior at Rice University pursuing B.S. Electrical Engineer
 
 Research Experience
 =======
+
 Schizophrenia Patients’ Symptom Prediction with Mobile Phone Sensing
 ------
 - Developed user-dependent and user-independent Gaussian Process and Long Short-Term Memory regression models to predict Schizophrenia patients’ self-assessment scores of ten symptoms with behavioral and environmental data collected from mobile phone sensing
