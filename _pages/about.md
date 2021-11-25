@@ -23,8 +23,14 @@ Schizophrenia Patients’ Symptom Prediction with Mobile Phone Sensing
 
 
 Sleep Advice Prediction with Multimodal Data
-------
+-----
+- Developed user-dependent and user-independent Random Forest models to predict three doctors’ sleep advice to shift workers in two Japanese hospitals using daily survey and wearable device data
+- Output advice probabilitites to indicate models' confidence in advice selections
+- Compared the performance among individual models built for each doctor and a one-size-fits-all model
+- Delivered the models to collaborators in Japan for a clinical study to evaluate the effectiveness of sleep advice to shift workers
 
-Alzheimer Disease Diagnoses with Self-supervised Learning and MRI
+Alzheimer's Disease Diagnoses with Self-supervised Learning and MRI
 ------
-
+- Developing classification models for subjects’ cognitive conditions and Alzheimer's Disease diagnoses with Magnetic Resonance Imaging 
+- Working on Convolutional Neural Network models with Self-supervised Learning to demonstrate the possibility of accurate disease diagnosis with only a limited amount of labeled data
+- Gathered benchmark MRI datasets for pre-training and classification tasks
