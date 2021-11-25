@@ -13,20 +13,20 @@ I'm an undergraduate senior at Rice University pursuing B.S. Electrical Engineer
 
 # Research Experience
 ## Schizophrenia Patients’ Symptom Prediction with Mobile Phone Sensing
-#### *Supervisor: Prof. Akane Sano, Rice University*
+### *Supervisor: Prof. Akane Sano, Rice University*
 - Developed user-dependent and user-independent Gaussian Process and Long Short-Term Memory regression models to predict Schizophrenia patients’ self-assessment scores of ten symptoms with behavioral and environmental data collected from mobile phone sensing
 - Personalized the independent models by fine-tuning transfer learning and clustering participants’ daily behavior patterns and demographic information
 - Extended the system from predicting symptoms for only one day to 30 days with a Long Short-Term Memory classification model which would give doctors more time to prepare interventions for patients in practical use
 
 ## Sleep Advice Prediction with Multimodal Data
-#### *Supervisor: Prof. Akane Sano, Rice University*
+### *Supervisor: Prof. Akane Sano, Rice University*
 - Developed user-dependent and user-independent Random Forest models to predict three doctors’ sleep advice to shift workers in two Japanese hospitals using daily survey and wearable device data
 - Output advice probabilitites to indicate models' confidence in advice selections
 - Compared the performance among individual models built for each doctor and a one-size-fits-all model
 - Delivered the models to collaborators in Japan for a clinical study to evaluate the effectiveness of sleep advice to shift workers
 
 ## Alzheimer's Disease Diagnoses with Self-supervised Learning and MRI
-#### *Supervisor: Prof. Behnaam Aazhang, Rice University*
+### *Supervisor: Prof. Behnaam Aazhang, Rice University*
 - Developing classification models for subjects’ cognitive conditions and Alzheimer's Disease diagnoses with Magnetic Resonance Imaging 
 - Working on Convolutional Neural Network models with Self-supervised Learning to demonstrate the possibility of accurate disease diagnosis with only a limited amount of labeled data
 - Gathered benchmark MRI datasets for pre-training and classification tasks
