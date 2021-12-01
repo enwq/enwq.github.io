@@ -25,8 +25,8 @@ I'm an undergraduate senior at Rice University pursuing B.S. Electrical Engineer
 - Compared the performance among individual models built for each doctor and a one-size-fits-all model
 - Delivered the models to collaborators in Japan for a clinical study to evaluate the effectiveness of sleep advice to shift workers
 
-## Alzheimer's Disease Diagnoses with Self-supervised Learning and MRI
+## Alzheimer's Disease Diagnosis with Self-supervised Learning and MRI
 ### *Supervisor: Prof. Behnaam Aazhang, Rice University*
-- Developing classification models for subjects’ cognitive conditions and Alzheimer's Disease diagnoses with Magnetic Resonance Imaging 
+- Developing classification models for subjects’ cognitive conditions and Alzheimer's Disease diagnosis with Magnetic Resonance Imaging 
 - Working on Convolutional Neural Network models with Self-supervised Learning to demonstrate the possibility of accurate disease diagnosis with only a limited amount of labeled data
 - Gathered benchmark MRI datasets for pre-training and classification tasks
