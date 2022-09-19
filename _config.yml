@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yufei Shen @ Rice University"
+title                    : "Yufei Shen @ UT Austin"
 title_separator          : "-"
 name                     : "Yufei Shen"
-description              : "Rice University Class of 2022"
+description              : "1st Year PhD Student at UT Austin Human"
 url                      : https://enwq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enwq/enwq.github.io"
@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Yufei Shen"
   avatar           : "yufei.jpg"
-  bio              :  "B.S. Electrical Engineering <br>                      
-                      B.A. Statistics <br>                    
-                      Rice University Class of 2022 <br>
-                      shenyufei2000@hotmail.com <br>
-                      ys57@rice.edu"
-  location         : "Houston, TX"
+  bio              :  "1st Year PhD Student <br>                      
+                       Human Signals Lab <br>  
+                       Wireless Networking and Communications Group (WNCG) <br>
+                       Department of Electrical and Computer Engineering <br>
+                       The University of Texas at Austin
+                      shenyufei@utexas.edu <br>
+                      shenyufei2000@hotmail.com"
+  location         : "Austin, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
