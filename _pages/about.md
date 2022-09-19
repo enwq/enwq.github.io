@@ -12,21 +12,21 @@ redirect_from:
 I'm an undergraduate senior at Rice University pursuing B.S. Electrical Engineering and B.A. Statistics degrees. My research interests include Ubiquitous and Mobile Computing, Mobile Health, Wearable Computing, Activity Recognition, Machine Learning and Signal Processing. I want to pursue a PhD in these fields to build systems and models to understand people’s behaviors and improve their health and quality of life. At Rice, I had research experience in [Computational Wellbeing Group](https://compwell.rice.edu/home) under Prof. [Akane Sano](http://akane.sano.web.rice.edu/index.html)’s supervision, where I worked on machine learning models for wellbeing predictions with mobile and wearable sensing. I also worked with Prof. [Behnaam Aazhang](https://aaz.rice.edu/) on Alzheimer's Disease diagnosis with MRI and machine learning. Here is my [CV](https://enwq.github.io/files/Yufei_Shen_CV_web.pdf) for more information about me. Thank you very much!
 
 # Education
-<p style="text-align:left;">
+<span style="text-align:left;">
   <b>The University of Texas at Austin</b>
     <span style="float:right;">
         Expected May 2027
     </span>
-</p>
+</span>
 Ph.D. Electrical Engineering\
-Supervisor: Prof. Edison Thomaz\
+Supervisor: Prof. Edison Thomaz
 
-<p style="text-align:left;">
+<span style="text-align:left;">
   <b>Rice University</b>
     <span style="float:right;">
         May 2022
     </span>
-</p>
+</span>
 B.S. Electrical Engineering, B.A. Statistics                             
 Magna Cum Laude
 
