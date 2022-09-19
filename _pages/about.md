@@ -13,16 +13,20 @@ I'm an undergraduate senior at Rice University pursuing B.S. Electrical Engineer
 
 # Education
 <p style="text-align:left;">
-    **The University of Texas at Austin**
+  <b>The University of Texas at Austin</b>
     <span style="float:right;">
         Expected May 2027
     </span>
 </p>
-
 Ph.D. Electrical Engineering\
 Supervisor: Prof. Edison Thomaz\
-\
-**Rice University** May 2022\
+
+<p style="text-align:left;">
+  <b>Rice University</b>
+    <span style="float:right;">
+        May 2022
+    </span>
+</p>
 B.S. Electrical Engineering, B.A. Statistics                             
 Magna Cum Laude
 
