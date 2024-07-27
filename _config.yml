@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yufei Shen"
   avatar           : "yufei.jpg"
-  bio              :  "<ul>
+  bio              :  "<ul style="list-style-type: none;">
                        <li>PhD Student </li>
                        <li>Human Signals Lab </li>
                        <li>Wireless Networking and Communications Group (WNCG) </li>
