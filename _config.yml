@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yufei Shen"
   avatar           : "yufei.jpg"
-  bio              :  "First Year PhD Student <br>
+  bio              :  "PhD Student <br>
                        Human Signals Lab <br>
                        Wireless Networking and Communications Group (WNCG) <br>
                        Department of Electrical and Computer Engineering <br>
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : https://github.com/enwq
   google_plus      :
   keybase          :
   instagram        :
