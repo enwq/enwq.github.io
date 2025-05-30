@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I'm a PhD student in the Human Signals Lab at UT Austin ECE, supervised by Prof. [Edison Thomaz](http://users.ece.utexas.edu/~ethomaz/). My research focuses on the interdisciplinary topics of ubiquitous computing, human-centered AI, and digital health. Specifically, I develop systems and models that leverage sensor data from smartphones and wearable devices to gain insights into human behaviors and enhance people's health and quality of life.
+I'm a PhD student in the Human Signals Lab at UT Austin ECE, supervised by Prof. [Edison Thomaz](http://users.ece.utexas.edu/~ethomaz/). My research focuses on the interdisciplinary topics of ubiquitous computing, human-centered sensing, and digital health. Specifically, I develop systems and models that leverage sensor data from smartphones and wearable devices to gain insights into human behaviors and enhance people's health and quality of life.
 
 I received B.S. Electrical Engineering and B.A. Statistics degrees from Rice University. During my undergraduate study, I had research experience in the [Computational Wellbeing Group](https://compwell.rice.edu/home) under the supervision of Prof. [Akane Sano](https://akanesano.rice.edu/), where I worked on machine learning models for wellbeing predictions with mobile and wearable sensing.
 
